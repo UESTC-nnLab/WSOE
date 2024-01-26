@@ -36,7 +36,7 @@ Download COCO2017 dataset from the [official website](https://cocodataset.org/#h
 Download the OOD dataset (json file) [here](https://drive.google.com/file/d/1GsTVHYaKWM40VlsFGpq_x9drhh3HYrKl/view?usp=drive_link). 
 
 
-Put the two processed OOD json files to ./anntoations
+Put the processed OOD json file to ./anntoations
 
 The COCO dataset folder should have the following structure:
 <br>
