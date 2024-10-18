@@ -19,7 +19,7 @@ DATASETS:
   TRAIN: ('voc_custom_train',)
   TEST: ('voc_custom_val',)
 AUXI_DATASETS:
-  TRAIN: ('ImageNet1k_Val_OE_final',)
+  TRAIN: ('ImageNet1k_Val_NonoverlapOE',)
   ID_OD_RATIO: 0.5 
   START_FINETUNE_ITER: 48000
   NUM_CLASSES: 20

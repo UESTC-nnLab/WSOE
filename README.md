@@ -29,6 +29,8 @@ The VOC dataset folder should have the following structure:
 
 In this work, ImageNet1k Validation Set serves as an auxiliary OOD dataset. Download preprocessed ImageNet from [here](https://drive.google.com/file/d/1GsTVHYaKWM40VlsFGpq_x9drhh3HYrKl/view?usp=drive_link)
 
+The correspondences of PASCAL VOC, MS COCO, Ba-OpenImages with ImageNet1k are detailed at [ImageNet1k.md](ImageNet1k.md)
+
 **Imba-COCO**
 
 Download COCO2017 dataset from the [official website](https://cocodataset.org/#home). 
